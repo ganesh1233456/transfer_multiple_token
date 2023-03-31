@@ -1,0 +1,8 @@
+/Users/ganesholi/Developer/bitfunks/psp34/target/ink/release/deps/crypto_mac-b5cfd49a0c4ea67c.rmeta: /Users/ganesholi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crypto-mac-0.8.0/src/lib.rs /Users/ganesholi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crypto-mac-0.8.0/src/errors.rs
+
+/Users/ganesholi/Developer/bitfunks/psp34/target/ink/release/deps/libcrypto_mac-b5cfd49a0c4ea67c.rlib: /Users/ganesholi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crypto-mac-0.8.0/src/lib.rs /Users/ganesholi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crypto-mac-0.8.0/src/errors.rs
+
+/Users/ganesholi/Developer/bitfunks/psp34/target/ink/release/deps/crypto_mac-b5cfd49a0c4ea67c.d: /Users/ganesholi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crypto-mac-0.8.0/src/lib.rs /Users/ganesholi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crypto-mac-0.8.0/src/errors.rs
+
+/Users/ganesholi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crypto-mac-0.8.0/src/lib.rs:
+/Users/ganesholi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crypto-mac-0.8.0/src/errors.rs:
